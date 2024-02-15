@@ -1,0 +1,145 @@
+{
+  "products":[
+    {
+      "id": 0,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F01330000-6bec-ac1f-9fc6-08da7e750537.jpg&w=384&q=75",
+      "name": "Донар комбо",
+      "description": "Сочная пицца с настоящим донарным мясом, кусочками моцареллы, дополненная литровой Coca-cola и 8 пепперони роллами — достаточно чтобы наелись 2-3 человека",
+      "price": 84000,
+      "category": "combo"
+    },
+    {
+      "id": 1,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F01330000-6bec-ac1f-9d06-08da8b389017.jpg&w=384&q=75",
+      "name": "Три за 99",
+      "description": "3 пиццы по 25 см со скидкой в 35% — это новое комбо от Bellissimo, которого хватит даже на шестерых! Хороший повод собраться большой компанией.",
+      "price": 99000,
+      "category": "combo"
+    },
+    {
+      "id": 2,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F01330000-6bec-ac1f-52e7-08d9bee9d271.jpg&w=384&q=75",
+      "name": "5 средних пицц",
+      "description": "Выбирайте свои любимые пиццы и экономьте до 17%. Для компании из 12-15 человек",
+      "price": 270000,
+      "category": "combo"
+    },{
+      "id": 3,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F405e4be1-3493-49d2-ab92-4eb256200ac5.jpg&w=384&q=75",
+      "name":"Донар пицца",
+      "description": "Вкусная и сочная мясная пицца с кусочками донарного мяса и настоящей моцареллы",
+      "price": 60000,
+      "category": "pizza"
+    },
+    {
+      "id": 4,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F2c814f26-9d3c-4b66-ae54-003fe4db2cb4.jpg&w=384&q=75",
+      "name":"Сальса",
+      "description": "Цыпленок, соус сальса, нежный сыр моцарелла, халапеньо, болгарский перец и томаты",
+      "price": 50000,
+      "category": "pizza"
+    },
+    {
+      "id": 5,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd020eb98-5c57-43d6-ba90-969907dc8186.jpg&w=384&q=75",
+      "name":"Гурме",
+      "description": "Пицца соус, маслины, пепперони, грибы, орегано",
+      "price": 50000,
+      "category": "pizza"
+    },
+    {
+      "id": 6,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F4e81f2f1-f49f-4fce-bef0-a02f507effb1.jpg&w=384&q=75",
+      "name": "Брэдстик",
+      "description": "Румяный чесночный борт и воздушное тесто в сочетании с нежнейшим соусом песто",
+      "price": 25000,
+      "category": "snack"
+    },
+    {
+      "id": 7,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F14239b62-96b8-4396-bbe0-8ebd7e1c63fc.jpg&w=384&q=75",
+      "name": "Пепперони роллы 4шт",
+      "description": "Хрустящее тесто, нежный соус ранч, колбаса и много сыра",
+      "price": 17000,
+      "category": "snack"
+    },
+    {
+      "id": 8,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F02b6e2a7-787c-46cb-b5b3-2dfafb6d23e2.jpg&w=384&q=75",
+      "name": "Картошка фри",
+      "description": "Румяный чесночный борт и воздушное тесто в сочетании с нежнейшим соусом песто",
+      "price": 12000,
+      "category": "snack"
+    },
+    {
+      "id": 9,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F83bf6e19-b204-4351-84ce-ab7376b40827.jpg&w=384&q=75",
+      "name": "Кола 1,5 Л",
+      "price": 14000,
+      "category": "drinks"
+    },
+    {
+      "id": 10,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fe7bd94ce-ad87-4f2e-9076-e9586a355ec5.jpg&w=384&q=75",
+      "name": "Фанта 1 л",
+      "price": 10000,
+      "category": "drinks"
+    },
+    {
+      "id": 11,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F59cabb59-c25b-4082-a865-c5a9e90510bb.jpg&w=384&q=75",
+      "name": "Кофе Капучино в стаканчике",
+      "price":12000,
+      "category": "drinks"
+    },
+    {
+      "id": 12,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fc9683d57-8d30-44fa-ad1e-2e1b53091fb0.jpg&w=384&q=75",
+      "name": "Салат Греческий в упаковке",
+      "price":19000,
+      "category": "salad"
+    },
+    {
+      "id": 13,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Ffc1cd67e-1b88-4c03-86ed-11f43a784fbe.jpg&w=384&q=75",
+      "name": "Салат Цезарь в упаковке",
+      "price": 20000,
+      "category": "salad"
+    },
+    {
+      "id": 14,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F3a9e1b1a-9327-4c6c-959f-a2981565baaa.jpg&w=384&q=75",
+      "name": "Синнамон Роллы 8 шт.",
+      "price": 10000,
+      "category": "dessert"
+    },
+    {
+      "id": 15,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F02708d12-129a-42d3-b69e-287f19e14751.jpg&w=384&q=75",
+      "name":"Синнамон Роллы 16 шт.",
+      "price": 10000,
+      "category": "dessert"
+    },
+    {
+      "id": 16,
+      "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fb643ceb5-6a4e-4101-a3dc-91c5327c588a.jpg&w=384&q=75",
+      "name": "Шоколадный Фондан",
+      "price": 10000,
+      "category": "dessert"
+    },
+    {
+      "id": 17,
+      "image":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fb33f0b64-fa93-4f15-8c94-21ceb4ce722b.jpg&w=384&q=75",
+      "name": "Фирменный соус",
+      "price": 3000,
+      "category": "sauce"
+    },
+    {
+      "id": 18,
+      "image":"https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F1c50817b-2ed5-41a4-8192-12aa169a734b.jpg&w=384&q=75",
+      "name": "Сырный соус",
+      "price": 3000,
+      "category": "sauce"
+    }
+  ]
+}
